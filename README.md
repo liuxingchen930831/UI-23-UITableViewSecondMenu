@@ -16,3 +16,4 @@
 	}
 	```
 - #### 需要加载子控制器的tableview实现代理方法，把传过来的子标题，加到一个数组中去，tableviewcell.textLabel的值就从这个数组中取，在实现完代理方法之后，需要刷新一下表格。
+- #### 用这个方法主要是为了复习代理方法和 addchildViewController
